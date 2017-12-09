@@ -1,0 +1,43 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    width: 100%;
+    height: 15vh;
+    box-sizing: border-box;
+}
+
+.small-box {
+    background: #468EE5;
+    width: 70px;
+    height: 70px;
+}
+
+.row1 {
+    background-color: #D8D8D8;
+}
+
+.row2 {
+    width: 100%;
+    height: 25vh;
+    padding: 20px 40px;
+    font-size: large;
+}
+
+.row3 {
+    background-color: #468EE5;
+}
+
+.row4 {
+    background-color: #47E4C2;
+}
+
+.row5 {
+    background-color: #B7EB81;
+}
+
+.row6 {
+    background-color: #F9E900; 
+}

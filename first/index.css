@@ -1,0 +1,21 @@
+body {
+    background: #D8D8D8;
+}
+
+.header {
+    background: #444444;
+    width: 100vw;
+    height: 100px;
+}
+
+.page-content {
+    background: #EFEFEF;
+    height: calc(100vh - 200px);
+    margin: 0px 150px 0px 150px;
+}
+
+.footer {
+    background: #222222;
+    height: 100px;
+    margin: 0px 150px 0px 150px;
+}
